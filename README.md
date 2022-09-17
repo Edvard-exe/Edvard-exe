@@ -1,4 +1,6 @@
 <h3 align="left">Hi there 👋 I'm Edvard 👨🏻‍💻</h3>
+   <h3>
+    <img src="https://media.giphy.com/media/46MDa0sCZ0Fq0/giphy.gif" alt="Coder GIF" width="500">
 <h3 align="left">Bio:</h3>
 <p align="left">
 
