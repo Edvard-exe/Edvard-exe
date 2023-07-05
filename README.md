@@ -5,9 +5,9 @@
 <p align="left">
 
 
-- :rocket: I am an Aerospace Engineer who transitioning to a Data Scientist role:
+- :rocket: I am an Aerospace Engineer who transitioned to a Data Analyst role:
    - Fond of machine learning,
-   - Experienced at data manipulation, analysis and inferential statistics
+   - Experienced in data manipulation, analysis, and inferential statistics
    - Good at data visualization and storytelling;
  - :fire: Currently working on Early Wildfire detection project;
  - :handshake: Always ready to collaborate;
@@ -15,7 +15,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/edvard-sivickij/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasparas-karalius" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edvard-sivickij/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvardas-sivickis" height="30" width="40" /></a>
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
