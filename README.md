@@ -5,11 +5,10 @@
 <p align="left">
 
 
-- :rocket: I am an Aerospace Engineer who transitioned to a Data Analyst role:
+- :rocket: I am an Aerospace Engineer who transitioned to a Data Scientist role:
    - Fond of machine learning,
    - Experienced in data manipulation, analysis, and inferential statistics
    - Good at data visualization and storytelling;
- - :fire: Currently working on Early Wildfire detection project;
  - :handshake: Always ready to collaborate;
  
 </p>
